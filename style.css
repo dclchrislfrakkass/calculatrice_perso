@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html {
+    background-color: greenyellow;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main {
+    /* position: absolute; */
+    top: 50%;
+    left: 50%;
+    background: rgba(99, 61, 61, 0.445);
+    /* background: black; */
+}
+.button {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    border: none;
+}
+.affichage {
+    width: 209px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    border: none;
+}
+.button0 {
+    width: 107px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    border: none;
+}
+.buttonequal {
+    width: 50px;
+    height: 108px;
+    font-size: 25px;
+    margin: 2px;
+    border: none;
+}
